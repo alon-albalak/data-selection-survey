@@ -10,7 +10,7 @@
   - [Specialized Selection for Multilingual Models](#specialized-selection-for-multilingual-models)
   - [Data Mixing](#data-mixing)
 - [Data Selection for Instruction-Tuning and Multitask Training](#data-selection-for-instruction-tuning-and-multitask-training)
-- [Data Selection for Preference Fine-tuning: Alignment](#data-selection-for-preference-fine-tuning)
+- [Data Selection for Preference Fine-tuning: Alignment](#data-selection-for-preference-fine-tuning-alignment)
 - [Data Selection for In-Context Learning](#data-selection-for-in-context-learning)
 - [Data Selection for Task-specific Fine-tuning](#data-selection-for-task-specific-fine-tuning)
 
@@ -236,7 +236,7 @@
 - [Astraios: Parameter-Efficient Instruction Tuning Code Large Language Models](https://arxiv.org/abs/2401.00788): 2024<br/>&emsp;Zhuo, Terry Yue and Zebaze, Armel and Suppattarachai, Nitchakarn... 1 hidden ... de Vries, Harm and Liu, Qian and Muennighoff, Niklas<br/>
 
 
-# Data Selection for Preference Fine-tuning
+# Data Selection for Preference Fine-tuning: Alignment
 
 [Back to Table of Contents](#table-of-contents)
 
