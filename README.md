@@ -1,3 +1,12 @@
+# A Survey on Data Selection for Language Models
+![GitHub stars](https://img.shields.io/github/stars/alon-albalak/data-selection-survey?color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/alon-albalak/data-selection-survey?color=9cf)
+[![License](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://github.com/alon-albalak/data-selection-survey/blob/main/LICENSE)
+
+This repo is a convenient listing of papers relevant to data selection for language models, during all stages of training.
+
+<img src="fig1.png" alt="A conceptual demonstration of the data pipeline for language model training" width=75% align="center">
+
 # Table of Contents
 
 - [Data Selection for Pretraining](#data-selection-for-pretraining)
@@ -16,6 +25,8 @@
 
 
 # Data Selection for Pretraining
+
+<img src="learning-stages-pretraining.png" alt="Conceptualization of objectives and constraints on data selection for pretraining" width=50% align="right">
 
 ## Language Filtering
 
@@ -99,12 +110,8 @@
 [Back to Table of Contents](#table-of-contents)
 
 - [Space/time trade-offs in hash coding with allowable errors](https://doi.org/10.1145/362686.362692): 1970<br/>&emsp;Bloom, Burton H.<br/>
-- [Suffix Arrays: A New Method for On-Line String Searches]( 
-            https://doi.org/10.1137/0222058
-    ): 1993<br/>&emsp;Manber, Udi and Myers, Gene<br/>
-- [On the resemblance and containment of documents]( 
-            https://doi.org/10.1137/0222058
-    ): 1997<br/>&emsp;Broder, A.Z.<br/>
+- [Suffix Arrays: A New Method for On-Line String Searches](https://doi.org/10.1137/0222058): 1993<br/>&emsp;Manber, Udi and Myers, Gene<br/>
+- [On the resemblance and containment of documents](https://doi.org/10.1137/0222058): 1997<br/>&emsp;Broder, A.Z.<br/>
 - [Similarity Estimation Techniques from Rounding Algorithms](https://doi.org/10.1145/509907.509965): 2002<br/>&emsp;Charikar, Moses S.<br/>
 - [URL normalization for de-duplication of web pages](https://doi.org/10.1145/1645953.1646283): 2009<br/>&emsp;Agarwal, Amit and Koppula, Hema Swetha and Leela, Krishna P.... 3 hidden ... Haty, Chittaranjan and Roy, Anirban and Sasturkar, Amit<br/>
 - [Asynchronous pipelines for processing huge corpora on medium to low resource infrastructures](http://nbn-resolving.de/urn:nbn:de:bsz:mh39-90215): 2019<br/>&emsp;Pedro Javier Ortiz Su'arez and Beno^it Sagot and Laurent Romary<br/>
@@ -189,6 +196,8 @@
 
 # Data Selection for Instruction-Tuning and Multitask Training
 
+<img src="learning-stages-instruction.png" alt="Conceptualization of objectives and constraints on data selection for instruction-tuning" width=50% align="right">
+
 [Back to Table of Contents](#table-of-contents)
 
 - [The natural language decathlon: Multitask learning as question answering](https://arxiv.org/abs/1806.08730): 2018<br/>&emsp;McCann, Bryan and Keskar, Nitish Shirish and Xiong, Caiming and Socher, Richard<br/>
@@ -238,6 +247,8 @@
 
 # Data Selection for Preference Fine-tuning: Alignment
 
+<img src="learning-stages-alignment.png" alt="Conceptualization of objectives and constraints on data selection for alignment" width=50% align="right">
+
 [Back to Table of Contents](#table-of-contents)
 
 - [WebGPT: Browser-assisted question-answering with human feedback](https://arxiv.org/abs/2112.09332): 2021<br/>&emsp;Nakano, Reiichiro and Hilton, Jacob and Balaji, Suchir... 5 hidden ... Kosaraju, Vineet and Saunders, William and others<br/>
@@ -278,6 +289,8 @@
 
 # Data Selection for In-Context Learning
 
+<img src="learning-stages-icl.png" alt="Conceptualization of objectives and constraints on data selection for in-context learning" width=50% align="right">
+
 [Back to Table of Contents](#table-of-contents)
 
 - [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://aclanthology.org/D19-1410): 2019<br/>&emsp;Reimers, Nils and Gurevych, Iryna<br/>
@@ -307,6 +320,8 @@
 
 
 # Data Selection for Task-specific Fine-tuning
+
+<img src="learning-stages-finetuning.png" alt="Conceptualization of objectives and constraints on data selection for task-specific fine-tuning" width=50% align="right">
 
 [Back to Table of Contents](#table-of-contents)
 
