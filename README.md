@@ -3,7 +3,10 @@
 ![GitHub forks](https://img.shields.io/github/forks/alon-albalak/data-selection-survey?color=9cf)
 [![License](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://github.com/alon-albalak/data-selection-survey/blob/main/LICENSE)
 
-This repo is a convenient listing of papers relevant to data selection for language models, during all stages of training.
+This repo is a convenient listing of papers relevant to data selection for language models, during all stages of training. This is meant to be a resource for the community, so please [contribute](#contribution) if you see anything missing!
+
+For more detail on these works, and more, see our survey paper: [A Survey on Data Selection for Language Models](https://arxiv.org/abs/2402.16827).
+By this incredible team: Alon Albalak, Yanai Elazar, Sang Michael Xie, Shayne Longpre, Nathan Lambert, Xinyi Wang, Niklas Muennighoff, Bairu Hou, Liangming Pan, Haewon Jeong, Colin Raffel, Shiyu Chang, Tatsunori Hashimoto, William Yang Wang
 
 <img src="fig1.png" alt="A conceptual demonstration of the data pipeline for language model training" width=75% align="center">
 
@@ -346,3 +349,11 @@ This repo is a convenient listing of papers relevant to data selection for langu
 - [D2 Pruning: Message Passing for Balancing Diversity and Difficulty in Data Pruning](https://arxiv.org/abs/2310.07931): 2023<br/>&emsp;Adyasha Maharana and Prateek Yadav and Mohit Bansal<br/>
 - [Make Every Example Count: On the Stability and Utility of Self-Influence for Learning from Noisy NLP Datasets](https://aclanthology.org/2023.emnlp-main.625): 2023<br/>&emsp;Bejan, Irina and Sokolov, Artem and Filippova, Katja<br/>
 - [LESS: Selecting Influential Data for Targeted Instruction Tuning](https://arxiv.org/abs/2402.04333): 2024<br/>&emsp;Mengzhou Xia and Sadhika Malladi and Suchin Gururangan and Sanjeev Arora and Danqi Chen<br/>
+
+
+## Contribution
+
+There are likely some amazing works in the field that we missed, so please contribute to the repo.
+
+Feel free to open a pull request with new papers or create an issue and we can add them for you.
+Thank you in advance for your efforts!
