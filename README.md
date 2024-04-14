@@ -364,3 +364,18 @@ There are likely some amazing works in the field that we missed, so please contr
 
 Feel free to open a pull request with new papers or create an issue and we can add them for you.
 Thank you in advance for your efforts!
+
+
+## Citation
+
+We hope this work serves as inspiration for many impactful future works. If you found our work useful, please cite this paper as:
+```
+@misc{albalak2024survey,
+      title={A Survey on Data Selection for Language Models}, 
+      author={Alon Albalak and Yanai Elazar and Sang Michael Xie and Shayne Longpre and Nathan Lambert and Xinyi Wang and Niklas Muennighoff and Bairu Hou and Liangming Pan and Haewon Jeong and Colin Raffel and Shiyu Chang and Tatsunori Hashimoto and William Yang Wang},
+      year={2024},
+      eprint={2402.16827},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
