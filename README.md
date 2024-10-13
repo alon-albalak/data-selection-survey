@@ -95,6 +95,7 @@ By this incredible team: Alon Albalak, Yanai Elazar, Sang Michael Xie, Shayne Lo
 - [Data Selection for Language Models via Importance Resampling](https://openreview.net/forum?id=uPSQv0leAu): 2023<br/>&emsp;Sang Michael Xie and Shibani Santurkar and Tengyu Ma and Percy Liang<br/>
 - [The RefinedWeb Dataset for Falcon LLM: Outperforming Curated Corpora with Web Data, and Web Data Only](https://arxiv.org/abs/2306.01116): 2023<br/>&emsp;Guilherme Penedo and Quentin Malartic and Daniel Hesslow... 3 hidden ... Baptiste Pannier and Ebtesam Almazrouei and Julien Launay<br/>
 - [Dolma: an Open Corpus of Three Trillion Tokens for Language Model Pretraining Research](https://arxiv.org/abs/2402.00159): 2024<br/>&emsp;Luca Soldaini and Rodney Kinney and Akshita Bhagia... 30 hidden ... Dirk Groeneveld and Jesse Dodge and Kyle Lo<br/>
+- [Programming Every Example: Lifting Pre-training Data Quality like Experts at Scale](https://arxiv.org/abs/2409.17115): 2024<br/>&emsp;Fan Zhou and Zengzhi Wang and Qian Liu and Junlong Li and Pengfei Liu<br/>
 
 
 ## Domain-Specific Selection
