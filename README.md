@@ -354,7 +354,7 @@ By this incredible team: Alon Albalak, Yanai Elazar, Sang Michael Xie, Shayne Lo
 - [Data-Efficient Finetuning Using Cross-Task Nearest Neighbors](https://aclanthology.org/2023.findings-acl.576): 2023<br/>&emsp;Ivison, Hamish and Smith, Noah A. and Hajishirzi, Hannaneh and Dasigi, Pradeep<br/>
 - [Make Every Example Count: On the Stability and Utility of Self-Influence for Learning from Noisy NLP Datasets](https://aclanthology.org/2023.emnlp-main.625): 2023<br/>&emsp;Bejan, Irina and Sokolov, Artem and Filippova, Katja<br/>
 - [LESS: Selecting Influential Data for Targeted Instruction Tuning](https://arxiv.org/abs/2402.04333): 2024<br/>&emsp;Mengzhou Xia and Sadhika Malladi and Suchin Gururangan and Sanjeev Arora and Danqi Chen<br/>
-
+- [TSDS: Data Selection for Task-Specific Model Finetuning](https://arxiv.org/abs/2410.11303): 2024<br/>&emsp;Zifan Liu, Amin Karbasi, Theodoros Rekatsinas<br/>
 
 
 
