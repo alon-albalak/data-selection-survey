@@ -252,6 +252,7 @@ By this incredible team: Alon Albalak, Yanai Elazar, Sang Michael Xie, Shayne Lo
 - [Aya Model: An Instruction Finetuned Open-Access Multilingual Language Model](https://arxiv.org/abs/2402.07827): 2024<br/>&emsp;"Ust"un, Ahmet and Aryabumi, Viraat and Yong, Zheng-Xin... 5 hidden ... Ooi, Hui-Lee and Kayid, Amr and others<br/>
 - [Smaller Language Models are capable of selecting Instruction-Tuning Training Data for Larger Language Models](https://arxiv.org/abs/2402.10430): 2024<br/>&emsp;Dheeraj Mekala and Alex Nguyen and Jingbo Shang<br/>
 - [Automated Data Curation for Robust Language Model Fine-Tuning](https://arxiv.org/abs/2403.12776): 2024<br/>&emsp;Jihai Chen and Jonas Mueller<br/>
+- [SCAR: Data Selection via Style Consistency-Aware Response Ranking for Efficient Instruction-Tuning of Large Language Models](https://arxiv.org/abs/2406.10882): 2025 <br/>&emsp;Zhuang Li, Yuncheng Hua, Thuy-Trang Vu, Haolan Zhan, Lizhen Qu, Gholamreza Haffari<br/>
 
 # Data Selection for Preference Fine-tuning: Alignment
 
